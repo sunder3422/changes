@@ -1,0 +1,89 @@
+html,body{
+		font-family: Verdana, Sans-serif;
+		background:url('http://localhost/IM/assets/login/images/back.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+
+}
+  h1{
+	color:rgb(255,255,255);
+	text-transform: uppercase;
+	text-align:center;
+	letter-spacing: 2pt;
+	font-size:30pt;
+		margin-top: 10px;
+		background-color: rgb(0,0,0);
+		padding:40px;
+		font-family: Verdana, Sans-serif;
+	}
+	h2{
+		color:rgb(176,26,23);
+	}
+/*content: '\002630 ';*/
+#maincon{
+	
+	margin:30px auto;
+}
+#home{font-size:20pt;
+}
+#home:after
+{
+	
+}
+#slidedown{
+	padding-left: 40px;
+}
+#hiddendisp
+{
+	display:block;
+   
+}
+#hiddendisp a{
+	display:block;
+	font-size:14pt;
+	color:black;
+	text-transform: uppercase;
+	text-align:center;
+	padding:15px;
+	margin-top: 3px;
+	background-color:grey;
+	color:white;
+	text-decoration:none;
+	
+
+}
+#hiddendisp a:hover{
+	background-color:rgb(176,83,149);
+}
+
+
+}
+.arc{
+	margin:10px auto;
+	text-align:center;
+	font-weight: bolder;
+
+}
+canvas{
+	font-size:20pt;
+}
+.box{
+	
+	border:1px solid grey;
+	padding:10px;
+
+}
+.graph{
+	background-color: rgb(142,223,227);
+	width:95%;
+	margin:20px auto;
+}
+button
+{
+border:none;
+height: 50px;
+font-weight: bolder;
+background-color: rgb(141,26,85);
+}

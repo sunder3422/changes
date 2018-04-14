@@ -32,7 +32,7 @@ var selector = document.getElementById('suun');
 var y = document.getElementById('img');
 var x = document.getElementById('ad');
 var z = document.getElementById('us');
-var w= document.getElementById('opa')
+var w= document.getElementById('opa');
 
     
  
